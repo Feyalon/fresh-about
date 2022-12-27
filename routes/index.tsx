@@ -7,8 +7,9 @@ export default function Home() {
       <title>
         FeyaLon
       </title>
+      <body class="bg-gray-900"><body/>
     </Head>
-    <section class="bg-gray-900 text-white">
+    <section class="text-white">
       
       <div
         class="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center"
