@@ -2,12 +2,12 @@ import { Head } from "$fresh/runtime.ts";
 
 export default function Home() {
   return (
-    <>
+    <body class="bg-gray-900">
     <Head>
       <title>
         FeyaLon
       </title>
-      <body class="bg-gray-900"><body/>
+      
     </Head>
     <section class="text-white">
       
@@ -48,6 +48,6 @@ export default function Home() {
       </div>
     </section>
 
-  </>
+  <body/>
   );
 }
