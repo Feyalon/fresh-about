@@ -48,6 +48,6 @@ export default function Home() {
       </div>
     </section>
 
-  <body/>
+  </body>
   );
 }
